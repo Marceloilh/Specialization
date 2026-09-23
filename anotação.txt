@@ -6,3 +6,5 @@ Para mehorar previsões imprecisas, precisamos quantificar com um função de cu
 Uma maneira de calcular o valor de erro é pegar cada valor de erro
 
 e elevar ao quadrado e somar esses valores e multiplicar por 1/2.
+
+Regra da cadeia-> calcular a derivada de uma função dentro de uma função.
